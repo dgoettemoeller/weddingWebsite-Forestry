@@ -6,10 +6,10 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   navigation:
-  - link_text: Registry
-  - link_text: Photos
-  - link_text: Details
   - link_text: Our Wedding
+  - link_text: Details
+  - link_text: Photos
+  - link_text: Registry
 - template: simple-header
   block: header-3
 - template: hero-banner-w-image

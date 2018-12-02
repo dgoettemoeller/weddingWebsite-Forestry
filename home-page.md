@@ -6,6 +6,7 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   navigation:
+  - link_text: Registry
   - link_text: Photos
   - link_text: Details
   - link_text: Our Wedding

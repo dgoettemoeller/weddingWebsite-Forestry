@@ -5,6 +5,8 @@ date: 2018-12-02 21:58:59 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
+  navigation:
+  - link_text: Our Wedding
 - template: simple-header
   block: header-3
 - template: hero-banner-w-image
